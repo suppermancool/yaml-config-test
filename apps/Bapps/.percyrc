@@ -1,0 +1,6 @@
+{
+    "variablePrefix": "${",
+    "variableSuffix": "}",
+    "variableNamePrefix": "$",
+    "envVariableName": "env"
+}
